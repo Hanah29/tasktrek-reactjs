@@ -14,7 +14,7 @@ TaskTrek is a React.js app for managing tasks using a Kanban board.
 1. Clone: `git clone https://github.com/Hanah29/tasktrek-reactjs.git`  
 2. Navigate: `cd tasktrek`  
 3. Install: `npm install`  
-4. Run: `npm start`  
+4. Run: `npm run dev`  
 
 ## Usage  
 

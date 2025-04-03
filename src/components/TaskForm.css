@@ -17,6 +17,7 @@
     padding: 8px 12px;
     margin-bottom: 15px;
     font-weight: 100%;
+    color: #333;
 
 }
 .task_input::placeholder{
@@ -37,7 +38,7 @@
     height: 40px;
     padding: 0 5px;
 }
-.task_status{
+.task_submit{
     font-size: 16px;
     font-weight: 500;
     background-color: #524c95;
